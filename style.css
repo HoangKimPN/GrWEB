@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Chiều cao của trang web */
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    background-color: #70c5ce; /* Màu nền trời */
+}
+
+#title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+}
+
+#title h1 {
+    margin: 0;
+}
+
+#title p {
+    margin: 5px 0;
+}
