@@ -1,11 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    height: 100vh; /* Chiều cao của trang web */
+    height: 100vh; 
     display: flex;
-    justify-content: center; /* Căn giữa theo chiều ngang */
-    align-items: center; /* Căn giữa theo chiều dọc */
-    background-color: #70c5ce; /* Màu nền trời */
+    justify-content: center;
+    align-items: center; 
+    background-color: #70c5ce; 
 }
 
 #title {
